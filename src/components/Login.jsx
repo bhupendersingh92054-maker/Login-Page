@@ -47,11 +47,6 @@
 
 
 
-
-
-
-
-
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../login.css";
@@ -79,7 +74,7 @@ const Login = () => {
   return (
     <div className="box">
       <div className="main">
-        <h1 style={{ color: "black", fontFamily: "sans-serif", padding: "10px" }}>
+        <h1 style={{ color: "black", fontFamily: "sans-serif", padding: "10px",}}>
           Please Login
         </h1>
         <div className="tags">

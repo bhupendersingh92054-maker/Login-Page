@@ -43,4 +43,10 @@ button:active {
   transform: translateY(0);
   box-shadow: 0 8px 20px rgba(127, 90, 240, 0.3);
 }
+.background-container {
+  background-image: url('/my-background-image.jpg'); /* Path relative to public folder */
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 

@@ -69,6 +69,10 @@
 
 
 }
-body{
-    background-color: #7f5af0;
+body {
+  background-image: url("C:\Users\HP\Desktop\aap\Login Page\src\assets\space-abstract-background_126980-76.avif");
+  background-size: cover;       /* makes image cover full screen */
+  background-position: center;  /* centers image */
+  background-repeat: no-repeat;
+  height: 100vh;
 }
